@@ -1,1 +1,74 @@
-darli
+ACTA CONSTITUTIVA DE MOTO TALLER MONTAÑEZ C.A
+
+*Proposito y justificacion del Proyecto.
+La empresa Moto Taller Montañés Del Centro C.A., desde su creación y hasta la presente fecha ha presentado un problema considerable, esto se debe a que en el área del almacén existe una desorganización de materiales, a demás de que no cuenta con un control de entrada, salida y existencia de los mismos. Lo planteado trae como consecuencia mal funcionamiento del área sujeta a estudio así como la falta de información veraz, impidiéndole a la gerencia acertada toma de decisiones.
+Ante tal situación, el objetivo de estudio va dirigido a los distintos niveles de eficiencia y eficacia de los controles de inventarios, con la finalidad de regularizar los procesos por medio de un sistema automatizado de inventario que los llevara a una posible mejora y así cada trabajador de la empresa lograra obtener mayores beneficios con un alto nivel de motivación, operatividad y rendimiento, alcanzando un sitial en el mercado donde se desenvuelven.
+
+* Objetivos medibles del proyecto y criterios de éxitos
+
+•	Diagnosticar la necesidad de la Empresa Moto TallerMontañez del Centro C.A de contar con un  sistema contable para el control de inventario.
+•	Determinar la factibilidad teórica, técnica y financiera de la implementación del sistema contable para el control de inventario en la empresa Moto Taller Montañez del Centro C.A
+•	Diseñar un sistema contable que controle el inventario de la Empresa Moto Taller Montañez C.A .
+•	Garantizar el buen uso de herramientas tecnológicas para asi brindar una buena calidad de servicios.
+
+*Requerimientos de Alto nivel:
+	Los requerimientos de la empresa como tal es que el sistema se encargue de los procesos compra y venta de la empresa, dentro de estos requerimientos 
+nos dan total libertad de creatividad, técnica y metodología a emplear. Estos requerimientos sin embargo lo trazamos todos como equipo. Sedecidió que el producto
+como tal fuese funcional siguiendo las normas pautadas por la empresa, como por ejemplo: logos y colores identificados con la empresa. 
+Como técnica se usara la programación orientada a objeto y la metodología que emplearemos será modulada con el fin de culminar en el menor tiempo posible 
+dividiendo el trabajo.  
+
+*Descripción del proyecto de alto nivel:
+
+	El propósito principal del proyecto es entregar un sistema capaz de encargarse de la compra y venta de la empresa Moto Taller, 
+el sistema como tal debería llevar un pleno control de todas las sub tareas que requieren estos módulos de compra y venta, tales como registro de clientes,
+ proveedores, inventarios y entre otros. Con esto se quiere unificar en un solo sistema todas estas tareas que se llevan por separado.
+ Los principales entregables serán entregados en las fechas correspondientes, en ellos se mostraran las primeras pantallas y módulos semi funcionales,
+ donde el dueño de la empresa podrá ver las funcionabilidades del sistema y podrá aportar sus sugerencias. Los límites del sistema estarán enmarcados solo
+ hacer compra y venta de la empresa, no tocaremos el inventario, ni recursos humanos y demás funciones que pueda tener la empresa, con esto evitamos posibles 
+errores con el alcance del proyecto, el enfoque que tiene este proyecto es sistematizar en dos módulos compra y venta de la empresa.
+
+
+*Riesgos de alto nivel
+
+- Menor Rendimiento.
+- Perdida de acceso.
+- inseguridadn en la parte interna del sitema.
+- Referencias directas inseguras a modulos de implementacion interno
+- riegos a datos sensibles, visibilidad de los datos a todos los usuarios.
+- Poca velocidad en cuanto a errores en la pagina web por lo que no funciona.
+
+* Agenda de hitos principales
+	
+- Tener una idea del diseño de la pagina web y tomar en cuenta las aspiraciones  del cliente.		
+- Presentación de prototipo al cliente antes del entregable.			
+- tomar en cuanta las correcciones durante la prueba del sistema. 			
+- Desarrollar pagina web funcional con todos los requerimientos de alto nivel			
+- uso de un servicio de hosting apropiado.			
+- crear la base de datos y registro de dato.		
+- realidaz mantenimiento y pruebas al sistema.
+-actualizacion de las principales aplicacion que hacen util al sistema.			
+- capacitar al personal y cliente sobre el nuevo sistema, y inspeccionar que dominen el sistema correctamente.		
+-Realizar cada mes los hitos faltantes o nuevos en el sistema.
+- se pretende culminar el proyecto el 26 de noviembre del 2014 con una duracion de 2 meses aproximadamente.
+
+*Resumen de presupuesto
+-el proyecto tendra un presupuesto de 16000 incluido el costo del proyecto web con su respectivo hosting con duracion a 1 año.
+
+*Requerimientos de aprobación del proyecto.
+Los criterios de aprobacion vienen de la mano de los requerimientos, cumplir con los objetivos, que el diseño y estrucutracion del sistema
+esten dentro de lo que se planteo en el comienzo del proyecto, que el acceso del sistema este totalmente restringido solo para personal escogido
+por la empresa, y las generaciones de reportes, clientes, proveedores, esten totalmente funcionales, que haya buena interactividad entre el 
+sistema y usuario. Cumpliendo estos criterios, se aprobara el proyecto. El coordinador de sistema da la aprobación de acuerdo el orden de cada 
+actividad a realizar.
+
+*PM asignado con grado de responsabilidad y autoridad.
+El gerente de proyecto, por ser un equipo de trabajo, esta al mando de Diego Guerrero y Darli Espinoza, con la responsabilidad de asignar recursos,
+y funciones de trabajo, todo lo referido a presupuesto esta a cargo de Carlos Aranguren, en la resolucion de conflictos y fallas dentro del equipo 
+de trabajo esta al mando con toda autoridad Jennifer Hurtado. Este gran equipo de trabajo se hace responsable de cualquier disfuncionalidad den tro del proyecto.
+Con la responsabilidad de resolver cualquier situacion.
+
+*Nombre y nivel de Sponsor que aprueba el acta (gerente).
+Debido al tipo de proyecto que se realiza, las firmas consignadas seran por el Gerente de proyecto Diego Guerrero y el Encargado del area de Sistemas dentro
+de la empresa. Acordando asi la aprobacion e inicio del proyecto.
+ 
